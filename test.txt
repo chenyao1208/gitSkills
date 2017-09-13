@@ -1,5 +1,0 @@
-this is a text.
-create a new branch is quick.
-create a new branch featurel.
-
-add a new branch issue_101.
